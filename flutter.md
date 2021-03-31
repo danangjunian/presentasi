@@ -1,5 +1,5 @@
 
-# Mencoba Flutter
+# A. Mencoba Flutter
 
 ## 0. Download dan install git
 
@@ -20,7 +20,29 @@ cekpoin: flutter doctor
 
 ## 3. Build and run
 
-## Referensi Belajar
+# B. Referensi Belajar
 
+## 1. Dart
 
+1.1 Dart PBO - Erico Darmawan Handoyo
 
+- https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
+
+1.2 Dart Docs
+
+- https://dart.dev/guides
+
+- Language tour -> Language samples
+- Iterable collections -> generic
+- Asynchronous programming -> concurrent
+
+## 2. Flutter
+
+2.1 Flutter Fundamental - Erico Darmawan Handoyo
+
+    Part 1:
+    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
+	  Part 2:
+    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
+
+2.2 https://flutter.dev/docs

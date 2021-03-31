@@ -10,8 +10,11 @@ cekpoin: git --version
 ## 1. Download Android SDK + Flutter SDK 
 
 - https://developer.android.com/studio
-- https://ainaan.wordpress.com/2020/05/14/labs-memasang-flutter-1-17-di-linux-mint-19-3/
+- https://ainaan.wordpress.com/2016/04/14/labs-menginstall-android-studio-2-0-di-linux-mint-17-3/
+
 - https://flutter.dev/docs/get-started/install/linux
+- https://ainaan.wordpress.com/2020/05/14/labs-memasang-flutter-1-17-di-linux-mint-19-3/
+
 
 cekpoin: flutter doctor
 

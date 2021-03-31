@@ -40,9 +40,12 @@ cekpoin: flutter doctor
 
 2.1 Flutter Fundamental - Erico Darmawan Handoyo
 
-    Part 1:
-    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
-	  Part 2:
-    https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
+- Part 1: https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV
+- Part 2: https://www.youtube.com/playlist?list=PLZQbl9Jhl-VBtLsFGDGXuhJSvAbwVuyPu
 
-2.2 https://flutter.dev/docs
+2.2 Flutter Docs
+
+- https://flutter.dev/docs
+
+
+#### Catatan: Null safety
